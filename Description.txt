@@ -1,0 +1,10 @@
+Worked on the few of the most used sorting algorithms
+The project contains the following algorithms
+
+1. Bubble Sort
+2. Insertion Sort
+3. Selection Sort
+4. Counting Sort
+5. Heap Sort
+6. Merge Sort
+7. Quick Sort
